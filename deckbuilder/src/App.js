@@ -10,6 +10,7 @@ export default class App extends React.Component {
     state = {
         value: "",
         suggestions: [],
+        cards: []
     };
 
     render() {
@@ -18,7 +19,7 @@ export default class App extends React.Component {
                 <div id="search">
                     <div id="search-input">
                         <TextField id="Card Name" value={this.state.value} onChange={(e) => {
-                            this.setState({ value: e.target.value, anchor: e.target});
+                            this.setState({ value: e.target.value });
                             fetch("https://api.scryfall.com/cards/autocomplete?q=" + e.target.value).then(response => {
                                 if (!response.ok) {
                                     throw Error('Network request failed.')
@@ -40,11 +41,24 @@ export default class App extends React.Component {
                             ) : null
                         }
                     </div>
-                    <Button id="search-button" variant="contained" color="primary">
+                    <Button id="search-button" variant="contained" color="primary" onClick={e => {
+                        fetch("https://api.scryfall.com/cards/search?q=" + this.state.value).then(response => {
+                            if (!response.ok) {
+                                throw Error('Network request failed.')
+                            }
+                            return response;
+                        }).then(data => data.json()).then(data => {
+                            this.setState({ cards: data.data, suggestions: [] });
+                        });
+                    }}>
                         Search
                     </Button>
                 </div>
-                <MtgCard name="Test" />
+                <div id="cards">
+                    {this.state.cards.map((value, i) => (
+                        <MtgCard key={i} {...value} />
+                    ))}
+                </div>
              </div>
         );
     }

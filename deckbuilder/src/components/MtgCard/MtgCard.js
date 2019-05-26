@@ -4,12 +4,23 @@ import './MtgCard.css'
 
 export default class MtgCard extends React.Component {
 
+    state = {
+        face: 0
+    }
+
     render() {
-        return (
-            <div className='MtgCard'>
-                {this.props.name}
-            </div>
-        );
+        if(this.props.card_faces)
+            return (
+                <div className='MtgCard'>
+                    <img src={this.props.card_faces[this.state.face].image_uris.png} alt={this.props.name} onMouseOver={() => this.setState({ face: (this.state.face === 0)? 1: 0 })} />
+                </div>
+            );
+        else
+            return (
+                <div className='MtgCard'>
+                    <img src={this.props.image_uris.png} alt={this.props.name}/>
+                </div>
+            );
     }
 
 }
