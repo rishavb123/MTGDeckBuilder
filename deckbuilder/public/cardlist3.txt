@@ -44,6 +44,41 @@
 1 Nature's Claim
 1 Siren Stormtamer
 1 Druids' Repository
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
 1 Edric, Spymaster of Trest
 1 Tetsuko Umezawa, Fugitive
 1 Chasm Skulker
