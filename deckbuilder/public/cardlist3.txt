@@ -5,11 +5,9 @@
 1 Predatory Rampage
 1 Spiketail Hatchling
 1 Spire Tracer
-1 Wharf Infiltrator
 1 Beastmaster Ascension
 1 Willow Dryad
 1 Artificer's Assistant
-1 Gnarlwood Dryad
 1 Shanodin Dryads
 1 Wirewood Symbiote
 1 Elvish Pioneer
@@ -17,7 +15,6 @@
 1 Triton Shorestalker
 1 Gudul Lurker
 1 Biomass Mutation
-1 Diligent Farmhand
 1 Treetop Scout
 1 Cloud of Faeries
 1 Slither Blade
@@ -35,6 +32,7 @@
 1 Zephyr Sprite
 1 Trygon Predator
 1 Beast Whisperer
+1 Wharf Infiltrator
 1 Invisible Stalker
 1 Blighted Agent
 1 Mystic Snake
@@ -44,6 +42,12 @@
 1 Nature's Claim
 1 Siren Stormtamer
 1 Druids' Repository
+1 Sakura-Tribe Elder
+1 Sol Ring
+1 Temporal Trespass
+1 Sakura-Tribe Scout
+1 Coastal Piracy
+1 Part the Waterveil
 1 Island
 1 Island
 1 Island
