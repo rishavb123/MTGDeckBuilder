@@ -86,9 +86,14 @@ export default class App extends React.Component {
                     <Button id="btnTest" variant="contained" color="primary">Number of Cards: {this.state.cards.length}</Button>
                     <Button id="btnTest" variant="contained" color="primary" >Average CMC: {(() => {
                         let sum = 0;
-                        for(let card of this.state.cards)
-                            sum += card.cmc;
-                        return Math.round(100*sum / this.state.cards.length) / 100.0;
+                        let len = 0;
+                        for(let card of this.state.cards) {
+                            if(card.type_line && card.type_line.indexOf("Land") === -1) {
+                                sum += card.cmc;
+                                len++;
+                            }
+                        }
+                        return Math.round(100*sum / len) / 100.0;
                     })()} </Button>
                     <Button id="btnTest" variant="contained" color="primary" >Total Cost: {(() => {
                         let sum = 0;
@@ -144,7 +149,15 @@ export default class App extends React.Component {
                     <Button id="btnTest" variant="contained" color="primary"><a href={"./cardlist" + this.state.file + ".txt"} download>Download</a></Button> 
                 </div>
                 <div id="cardsTest">
-                    {this.state.cards.sort((a, b) => a.cmc - b.cmc).map((value, i) => (
+                    {this.state.cards.sort((a, b) => {
+                        if(a.cmc === 0 && b.cmc === 0)
+                            return 0;
+                        else if(a.cmc === 0)
+                            return 1;
+                        else if(b.cmc === 0)
+                            return -1;
+                        return a.cmc - b.cmc
+                    }).map((value, i) => (
                         <MtgCard key={i} {...value} />
                     ))}
                 </div>
