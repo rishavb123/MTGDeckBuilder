@@ -37,7 +37,7 @@ export default class App extends React.Component {
     }
 
     switchFile = () => {
-        this.setState({ file: this.state.file%2 + 1, cards: [] }, () => {
+        this.setState({ file: this.state.file%numOfFiles + 1, cards: [] }, () => {
             this.readTextFile("./cardlist" + this.state.file + ".txt");
             let arr = text.split('\n');
             console.log(arr);
