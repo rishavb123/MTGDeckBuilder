@@ -46,3 +46,28 @@
 1 Nature's Claim
 1 Siren Stormtamer
 1 Druids' Repository
+1 Edric, Spymaster of Trest
+1 Tetsuko Umezawa, Fugitive
+1 Chasm Skulker
+1 Spawnwrithe
+1 Reclamation Sage
+1 Cultivator of Blades
+1 Thunderfoot Baloth
+1 Llanowar Elves
+1 Elvish Mystic
+1 Caustic Caterpillar
+1 Jace's Phantasm
+1 Faerie Miscreant
+1 Mist-Cloaked Herald
+1 Blinding Fog
+1 Nissa, Voice of Zendikar
+1 Karn's Temporal Sundering
+1 Arcane Denial
+1 Muddle the Mixture
+1 Essence Scatter
+1 Counterspell
+1 Cyclonic Rift
+1 Reality Shift
+1 Skullclamp
+1 Rapid Hybridization
+1 Pongify

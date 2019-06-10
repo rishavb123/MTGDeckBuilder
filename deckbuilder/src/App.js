@@ -6,7 +6,7 @@ import MtgCard from './components/MtgCard';
 import './App.css';
 
 let text = "";
-const numOfFiles = 2;
+const numOfFiles = 3;
 
 export default class App extends React.Component {
 
@@ -144,7 +144,7 @@ export default class App extends React.Component {
                     <Button id="btnTest" variant="contained" color="primary"><a href={"./cardlist" + this.state.file + ".txt"} download>Download</a></Button> 
                 </div>
                 <div id="cardsTest">
-                    {this.state.cards.map((value, i) => (
+                    {this.state.cards.sort((a, b) => a.cmc - b.cmc).map((value, i) => (
                         <MtgCard key={i} {...value} />
                     ))}
                 </div>
