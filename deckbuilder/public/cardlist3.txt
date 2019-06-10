@@ -1,5 +1,4 @@
 1 Cloudfin Raptor
-1 Faerie Miscreant
 1 Hope of Ghirapur
 1 Looter il-Kor
 1 Nightveil Sprite
@@ -36,7 +35,6 @@
 1 Zephyr Sprite
 1 Trygon Predator
 1 Beast Whisperer
-1 Wharf Infiltrator
 1 Invisible Stalker
 1 Blighted Agent
 1 Mystic Snake

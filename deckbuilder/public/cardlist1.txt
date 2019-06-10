@@ -1,12 +1,10 @@
 1 Cloudfin Raptor
-1 Faerie Miscreant
 1 Hope of Ghirapur
 1 Looter il-Kor
 1 Nightveil Sprite
 1 Predatory Rampage
 1 Spiketail Hatchling
 1 Spire Tracer
-1 Wharf Infiltrator
 1 Beastmaster Ascension
 1 Willow Dryad
 1 Artificer's Assistant
