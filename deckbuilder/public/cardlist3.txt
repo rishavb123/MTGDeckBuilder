@@ -1,14 +1,11 @@
 1 Cloudfin Raptor
 1 Hope of Ghirapur
-1 Looter il-Kor
 1 Nightveil Sprite
 1 Predatory Rampage
 1 Spiketail Hatchling
 1 Spire Tracer
 1 Beastmaster Ascension
-1 Willow Dryad
 1 Artificer's Assistant
-1 Shanodin Dryads
 1 Wirewood Symbiote
 1 Elvish Pioneer
 1 Scryb Sprites
@@ -18,10 +15,8 @@
 1 Treetop Scout
 1 Cloud of Faeries
 1 Slither Blade
-1 Skyshroud Elite
 1 Arbor Elf
 1 Hypnotic Siren
-1 Jukai Messenger
 1 Overrun
 1 Skyshroud Ranger
 1 Bident of Thassa
@@ -33,22 +28,16 @@
 1 Trygon Predator
 1 Beast Whisperer
 1 Wharf Infiltrator
-1 Invisible Stalker
-1 Blighted Agent
-1 Mystic Snake
 1 Lorescale Coatl
-1 Frilled Mystic
 1 Unified Will
 1 Nature's Claim
 1 Siren Stormtamer
-1 Druids' Repository
-1 Sakura-Tribe Elder
-1 Sol Ring
 1 Temporal Trespass
-1 Sakura-Tribe Scout
-1 Coastal Piracy
 1 Part the Waterveil
-1 Island
+1 Simic Signet
+1 Harvest Season
+1 Notorious Throng
+1 Druids' Repository
 1 Island
 1 Island
 1 Island
@@ -101,10 +90,11 @@
 1 Karn's Temporal Sundering
 1 Arcane Denial
 1 Muddle the Mixture
-1 Essence Scatter
 1 Counterspell
 1 Cyclonic Rift
 1 Reality Shift
 1 Skullclamp
 1 Rapid Hybridization
 1 Pongify
+1 Rampant Growth
+1 Forbid
