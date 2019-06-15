@@ -14,7 +14,7 @@ export default class App extends React.Component {
         value: "",
         cards: [],
         file: numOfFiles,
-        numOfFiles: numOfFiles
+        numOfFiles: numOfFiles - 1
     };
 
     readTextFile = file => {

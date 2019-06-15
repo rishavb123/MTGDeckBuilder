@@ -28,16 +28,18 @@
 1 Trygon Predator
 1 Beast Whisperer
 1 Wharf Infiltrator
-1 Lorescale Coatl
 1 Unified Will
 1 Nature's Claim
 1 Siren Stormtamer
 1 Temporal Trespass
 1 Part the Waterveil
-1 Simic Signet
+1 Cursecatcher
 1 Harvest Season
 1 Notorious Throng
 1 Druids' Repository
+1 Prophet of Kruphix
+1 Looter il-Kor
+1 Guardian Project
 1 Island
 1 Island
 1 Island
@@ -75,7 +77,6 @@
 1 Edric, Spymaster of Trest
 1 Tetsuko Umezawa, Fugitive
 1 Chasm Skulker
-1 Spawnwrithe
 1 Reclamation Sage
 1 Cultivator of Blades
 1 Thunderfoot Baloth
@@ -85,7 +86,6 @@
 1 Jace's Phantasm
 1 Faerie Miscreant
 1 Mist-Cloaked Herald
-1 Blinding Fog
 1 Nissa, Voice of Zendikar
 1 Karn's Temporal Sundering
 1 Arcane Denial

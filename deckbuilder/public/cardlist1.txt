@@ -28,13 +28,15 @@
 1 Trygon Predator
 1 Beast Whisperer
 1 Wharf Infiltrator
-1 Lorescale Coatl
 1 Unified Will
 1 Nature's Claim
 1 Siren Stormtamer
 1 Temporal Trespass
 1 Part the Waterveil
-1 Simic Signet
+1 Cursecatcher
 1 Harvest Season
 1 Notorious Throng
 1 Druids' Repository
+1 Prophet of Kruphix
+1 Looter il-Kor
+1 Guardian Project
