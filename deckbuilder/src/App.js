@@ -6,7 +6,7 @@ import MtgCard from './components/MtgCard';
 import './App.css';
 
 let text = "";
-const numOfFiles = 4;
+const numOfFiles = 5;
 
 export default class App extends React.Component {
 
