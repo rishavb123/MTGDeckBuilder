@@ -4,20 +4,13 @@
 1 Predatory Rampage
 1 Spiketail Hatchling
 1 Spire Tracer
-1 Beastmaster Ascension
-1 Artificer's Assistant
 1 Wirewood Symbiote
 1 Elvish Pioneer
 1 Scryb Sprites
-1 Triton Shorestalker
-1 Gudul Lurker
 1 Biomass Mutation
 1 Treetop Scout
 1 Cloud of Faeries
-1 Slither Blade
-1 Arbor Elf
 1 Hypnotic Siren
-1 Overrun
 1 Skyshroud Ranger
 1 Bident of Thassa
 1 Merfolk Spy
@@ -25,7 +18,6 @@
 1 Wingcrafter
 1 Wrap in Vigor
 1 Zephyr Sprite
-1 Trygon Predator
 1 Beast Whisperer
 1 Wharf Infiltrator
 1 Unified Will
@@ -37,9 +29,10 @@
 1 Harvest Season
 1 Notorious Throng
 1 Druids' Repository
-1 Prophet of Kruphix
+1 Plasm Capture
 1 Looter il-Kor
 1 Guardian Project
+1 Champion of Lambholt
 1 Island
 1 Island
 1 Island
@@ -78,8 +71,6 @@
 1 Tetsuko Umezawa, Fugitive
 1 Chasm Skulker
 1 Reclamation Sage
-1 Cultivator of Blades
-1 Thunderfoot Baloth
 1 Llanowar Elves
 1 Elvish Mystic
 1 Caustic Caterpillar
@@ -93,8 +84,17 @@
 1 Counterspell
 1 Cyclonic Rift
 1 Reality Shift
-1 Skullclamp
 1 Rapid Hybridization
 1 Pongify
 1 Rampant Growth
 1 Forbid
+1 Fyndhorn Elves
+1 Boreal Druid
+1 Artificer's Assistant
+1 Triton Shorestalker
+1 Arbor Elf
+1 Trygon Predator
+1 Overrun
+1 Slither Blade
+1 Gudul Lurker
+1 Beastmaster Ascension

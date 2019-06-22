@@ -6,7 +6,7 @@ import MtgCard from './components/MtgCard';
 import './App.css';
 
 let text = "";
-const numOfFiles = 3;
+const numOfFiles = 4;
 
 export default class App extends React.Component {
 
@@ -150,7 +150,9 @@ export default class App extends React.Component {
                 </div>
                 <div id="cardsTest">
                     {this.state.cards.sort((a, b) => {
-                        if(a.cmc === 0 && b.cmc === 0)
+                        if(a.cmc === b.cmc)
+                            return a.name > b.name? 1: b.name > a.name? -1 : 0;
+                        else if(a.cmc === 0 && b.cmc === 0)
                             return 0;
                         else if(a.cmc === 0)
                             return 1;
